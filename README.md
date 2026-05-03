@@ -1,2 +1,2 @@
 # stepik-python-labs
-solutions for python programming tasks from the stepik platform
+this repository contains my solutions to Python programming problems from the course '"Поколение Python": курс для начинающих'
