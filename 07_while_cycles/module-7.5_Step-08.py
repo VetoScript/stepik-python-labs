@@ -3,7 +3,7 @@ while name != "Александра":
     name = input()
 
 count = 0
-name = input()  # Считываем следующего за Александрой
+name = input()  
 while name != "Левон":
     count += 1
     name = input()
